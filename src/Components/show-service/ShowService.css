@@ -1,0 +1,13 @@
+.card-service{
+    background-color: #534f4f;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px gray;
+    
+}
+.card-service img {
+    height:200px;
+}
+.card-body{
+   background-color: lightcyan;
+}

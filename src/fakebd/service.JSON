@@ -1,0 +1,56 @@
+[
+    {   "id":1, 
+        "title":"Photography",
+        "img": "https://demo.themefisher.com/educenter/images/courses/course-1.jpg",
+        "description":"I have defined 7 core reasons why you as a photographer need to consider content marketingas a big part of your marketing efforts,Build credibilitywith prospects who may not know you or what you do."
+
+    },
+    {   
+        "id":2,
+        "title":"Programming",
+        "img": "https://demo.themefisher.com/educenter/images/courses/course-2.jpg",
+        "description":"Programming is, quite literally, all around us. From the take-out we order, to the movies we stream, code enables everyday actions in our lives. Tech companies are no longer recognizable as just software companies "
+
+    },
+    {   
+        "id":3,
+        "title":"Lifestyle Archives",
+        "img": "https://demo.themefisher.com/educenter/images/courses/course-3.jpg",
+        "description":"Whether you’re stuck in your car during a snowstorm, evacuating before a hurricane hits, fleeing a wildfire or dealing with another emergency,"
+
+    },
+    {   
+        "id":4,
+        "title":"Complete Freelancing",
+        "img": "https://demo.themefisher.com/educenter/images/courses/course-4.jpg",
+        "description":"The Complete Freelance Content Writing Course is for anyone who wants to start a career as a Content Writer. If you want to make a living as a freelance writer this is the perfect course for you."
+
+    },
+    {   
+        "id":5,
+        "title":"Branding Design",
+        "img": "https://demo.themefisher.com/educenter/images/courses/course-5.jpg",
+        "description":"Offering creative marketing solutions for small business owners including brand design and strategy, logo design, website design, or content creation, and marketing planning."
+
+    },
+    {   
+        "id":6,
+        "title":"Art Design",
+        "img": "https://demo.themefisher.com/educenter/images/courses/course-6.jpg",
+        "description":"Content in a work of art refers to what is being depicted and might be helpful in deriving a basic meaning. Sometimes content is straightforward; in other cases, however,"
+
+    },
+    {   
+        "id":7,
+        "title":"Web Design",
+        "img": "https://images.search.yahoo.com/images/view;_ylt=Awr9NEl5HVth.T0AVU6JzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzUxZjlkZmJkNmI1Njg2ZTZhMjQ2YWMwNDM5NDNlMDMzBGdwb3MDMgRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dweb%2Bdesing%26type%3DE211US997G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D2&w=2000&h=1333&imgurl=hdmarketingdesign.com%2Fblog%2Fwp-content%2Fuploads%2F2018%2F07%2Fwhat-does-a-web-designer-do.jpeg&rurl=http%3A%2F%2Fhdmarketingdesign.com%2Fblog%2Fwhat-does-a-web-designer-do-and-do-you-need-to-hire-one%2F&size=846.0KB&p=web+design&oid=51f9dfbd6b5686e6a246ac043943e033&fr2=piv-web&fr=mcafee&rw=web+design&tt=What+Does+a+Web+Designer+Do+and+Do+You+Need+to+Hire+One%3FHD+Marketing+%26+Design+Fort+Wayne&b=0&ni=21&no=2&ts=&tab=organic&sigr=xQ5LtO71SxQm&sigb=23S6od7pCptO&sigi=sV3KFsmhfMeE&sigt=Tzc2Dj6RTeoQ&.crumb=6G0khXxb5lJ&fr=mcafee&fr2=piv-web&type=E211US997G0",
+        "description":"Web design is the process of planning, conceptualizing, and arranging content online. Today, designing a website goes beyond aesthetics to include the website’s overall functionality. Web design also includes web apps, mobile apps, and user interface design"
+    },
+    {   
+        "id":8,
+        "title":"Full Stack",
+        "img": "https://images.search.yahoo.com/images/view;_ylt=AwrTLfq3HVthABgA5saJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzcxM2ExZWJmNDM2Y2FlYjA3ZjNlZWU4OTc5OWNlMGI5BGdwb3MDMgRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dfull%2Bstack%26ei%3DUTF-8%26type%3DE211US997G0%26fr%3Dmcafee%26fr2%3Dsb-top-images.search%26tab%3Dorganic%26ri%3D2&w=791&h=638&imgurl=www.softlogicsys.in%2Fwp-content%2Fuploads%2F2019%2F07%2Ffull-stack.jpg&rurl=https%3A%2F%2Fwww.softlogicsys.in%2Ffull-stack-developer-training-in-chennai%2F&size=47.7KB&p=full+stack&oid=713a1ebf436caeb07f3eee89799ce0b9&fr2=sb-top-images.search&fr=mcafee&tt=Full+Stack+Training+in+Chennai+%7C+Full+Stack+Developer+Training+in+Chennai&b=0&ni=56&no=2&ts=&tab=organic&sigr=AQGAhouNGiCW&sigb=P0kL3dg327By&sigi=KN3NMsLKceji&sigt=uBU4nzYCL7kO&.crumb=6G0khXxb5lJ&fr=mcafee&fr2=sb-top-images.search&type=E211US997G0",
+        "description":"The following diagram depicts a stack and its operations − A stack can be implemented by means of Array, Structure, Pointer, and Linked List. Stack can either be a fixed size one or it may have a sense of dynamic resizing"
+
+    }
+]

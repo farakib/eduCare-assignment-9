@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    text-align: center;
+    background-color:#182b45;
+    padding: 25px;
+}
+.title{
+    color: white;
+}
+
+.navbar{
+    margin-left: auto;
+}
+.nav{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 5px;
+    color: white;
+}
+
+

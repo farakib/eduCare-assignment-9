@@ -1,0 +1,14 @@
+.container{
+    background-color: #f8f8f8;
+}
+.card-section{
+    display: flex;
+    margin-top: 30px;
+    background-color: #f8f8f8;
+    /* background-image: url("https://tse3.mm.bing.net/th?id=OIP.o_JEsrQBOC4OkMUUHKcJLgHaDH&pid=Api&P=0&w=365&h=154"); */
+   
+}
+.card-section img{
+    margin-top:20px;
+    width: 600px;
+}
