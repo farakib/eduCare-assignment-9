@@ -3,7 +3,7 @@ import { Card, Col, Row } from 'react-bootstrap';
 import './ShowService.css';
 
 const ShowService = (props) => {
-    const {title, img, description} = props.service;
+    const {title, img, description,price} = props.service;
 
 
     return (
@@ -14,6 +14,7 @@ const ShowService = (props) => {
             <Card.Body>
              <h4>{title}</h4>
              <p>{description}</p>
+             <p>price: ${price}</p>
           </Card.Body>
          </Card>
      </Col>

@@ -3,7 +3,8 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import { Card, Col, Row } from 'react-bootstrap';
 import Service from '../Services/Service';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCoffee, faBook, faChalkboard, faCalendarWeek, faUserEdit} from '@fortawesome/free-solid-svg-icons';
 import './Home.css';
 const Home = () => {
     
@@ -18,6 +19,7 @@ const Home = () => {
     <Col>
       <Card>
         <Card.Body>
+        <FontAwesomeIcon icon={faBook} />
          <h5>ScholorShip News</h5>
          <p>Our scholarship algorithm matches you to scholarships, grants and internships you qualify for. Instantly get a scholarship list based on your strengths, interests, student activities and skills.</p>
         </Card.Body>
@@ -26,18 +28,20 @@ const Home = () => {
     <Col>
       <Card>
         <Card.Body>
+        <FontAwesomeIcon icon={faChalkboard} />
          <h5>Our Notice Board</h5>
-         <p></p>
+         <p>Noticeboard is a subscription-based news management system that offers editors as well as end-users an intuitive experience writing, commenting, and reading news. A central feature of the Noticeboard modules.</p>
         </Card.Body>
       </Card>
     </Col>
     <Col>
       <Card>
         <Card.Body>
+        <FontAwesomeIcon icon={faCalendarWeek} />
           <Card.Title>Our Achievements</Card.Title>
           <Card.Text>
-            This is a longer card with supporting text below as a natural
-            lead-in to additional content. This content is a little bit longer.
+          Our Working Definition of Student Achievement and School Quality May 2016 Education Evolving’s
+           ultimate goal is to increase the achievement of all young people. 
           </Card.Text>
         </Card.Body>
       </Card>
@@ -45,10 +49,11 @@ const Home = () => {
     <Col>
       <Card>
         <Card.Body>
+        <FontAwesomeIcon icon={faUserEdit} />
           <Card.Title>Admission Now</Card.Title>
           <Card.Text>
-            This is a longer card with supporting text below as a natural
-            lead-in to additional content. This content is a little bit longer.
+          The Deficit Reduction Act of 2005 mandated that providers report POA indicators for all diagnoses submitted on Medicare inpatient 
+          acute care claims for discharges beginning October 1
           </Card.Text>
         </Card.Body>
       </Card>
