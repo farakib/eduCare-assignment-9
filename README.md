@@ -6,4 +6,4 @@
 
 4. git hub link: https://github.com/ProgrammingHeroWC4/review-website-farakib
 
-5. Viste here: https://silly-galileo-7f3aeb.netlify.app/about
+5. Viste here: https://silly-galileo-7f3aeb.netlify.app
